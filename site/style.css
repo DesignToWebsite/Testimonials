@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
-/***
-font-family: 'Barlow Semi Condensed', sans-serif;
-500 600
-***/
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -24,7 +21,7 @@ p{
     opacity:70%;
 }
 body{
-    background-color:var(--gray);
+    background-color:var(--grayish-blue);
 
 }
 .container{
