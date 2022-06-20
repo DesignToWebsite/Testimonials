@@ -1,5 +1,3 @@
-# Testimonials-
-Testimonials grid section challenge hub
 
 # Frontend Mentor - Testimonials grid section challenge
 
